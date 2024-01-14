@@ -44,7 +44,6 @@
 		"@sveltejs/adapter-node": "^3.0.0",
 		"dotenv": "^16.3.1",
 		"flowbite-svelte-icons": "^0.4.5",
-		"node-fetch": "^3.3.2",
-		"pythonia": "^1.1.2"
+		"node-fetch": "^3.3.2"
 	}
 }
